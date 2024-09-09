@@ -1,0 +1,6 @@
+chainlit
+huggingface_hub
+textblob
+nltk
+langchain
+python-dotenv
